@@ -16,8 +16,9 @@ I enjoy building practical applications and learning new technologies.
 
 ## 🚀 Featured Projects
 
-- **ReqLens** — AI-powered software requirement ambiguity detector
+- **Smart Expense Tracker** — A full-stack web application for managing personal expenses
 - **Vehicle Type Recognition System** — Machine learning-based vehicle classification using EfficientNetB0
+- **ReqLens** — AI-powered software requirement ambiguity detector
 
 ## 📚 Currently Learning
 
